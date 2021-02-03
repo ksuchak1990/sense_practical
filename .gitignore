@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Input data
+./data/inputs/frames/*.dat
+
+# Output data
+./data/outputs/*.csv
+./data/outputs/frames/*.csv

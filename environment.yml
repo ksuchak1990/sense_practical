@@ -1,0 +1,10 @@
+name: sense-abm
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - seaborn
+  - pandas
+  - jupyterlab
+prefix: /home/keiran/miniconda3/envs/sense-abm

@@ -10,6 +10,23 @@ modelling as part of the training week on Machine Learning and AI.
 * Accessing data
 * Using `jupyter-notebooks`/`jupyter-lab`
 
+### Cloning down this repository
+
+The first step in getting started with this practical is to get hold of this
+repository.
+We can do this by using git to clone the repository onto our own machines.
+This is achieved by opening the terminal/command prompt and running the
+following command:
+```
+git clone https://github.com/ksuchak1990/sense_practical
+```
+This will download a copy of the repository onto our machines.
+We then wish to move into the folder that we have just downloaded, which we can
+do by running the following command:
+```
+cd sense_practical
+```
+
 ### Setting up the environment
 
 This repository contains an `environment.yml` file, which documents the python

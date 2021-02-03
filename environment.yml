@@ -7,4 +7,5 @@ dependencies:
   - seaborn
   - pandas
   - jupyterlab
+  - tqdm
 prefix: /home/keiran/miniconda3/envs/sense-abm

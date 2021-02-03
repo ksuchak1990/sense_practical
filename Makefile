@@ -6,3 +6,6 @@ env:
 
 clean:
 	cd ./data/inputs/frames/ && rm -rf *.dat
+	cd ./data/outputs/frames/ && rm -rf *.dat
+	cd ./data/outputs/frames/ && rm -rf *.csv
+	cd ./data/outputs/ && rm *.csv

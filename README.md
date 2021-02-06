@@ -55,6 +55,8 @@ will be able to download a zipped folder, unzip it and get started.
 The advantage of obtaining the materials via GitHub is that you will be able to
 pull any changes that I make to the practical in close to real-time.
 
+*(The remainder of this section will assume that you are using Anaconda Python)*
+
 ### Getting started from GitHub
 
 The process of getting started from GitHub consists of the following steps:

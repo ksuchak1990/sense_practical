@@ -27,6 +27,14 @@ main activities of the practical in which we use the speed parameter values
 found in the previous notebook to run the model with the aim of calibrating
 other agent parameters in the model (specifically, the agent birth-rate).
 
+The `./src/` subdirectory contains any source code used for the practical.
+This is divided into two purposes:
+
+* Code used for preprocessing data
+* Code used for the agent-based model
+
+The `./docs/` subdirectory contains any documentation relevant to the practical.
+
 ## Getting started
 
 This section of the `README` will outline how to get started with the practical.

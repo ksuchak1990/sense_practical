@@ -2,10 +2,12 @@ name: sense-abm
 channels:
   - defaults
 dependencies:
-  - matplotlib
-  - numpy
   - seaborn
-  - pandas
-  - jupyterlab
   - tqdm
-prefix: /home/keiran/miniconda3/envs/sense-abm
+  - jupyterlab
+  - numpy
+  - matplotlib
+  - pandas
+  - flake8
+  - ffmpeg
+prefix: /home/ksuchak1990/miniconda3/envs/sense-abm

@@ -1,5 +1,7 @@
 # sense_practical
 
+[![DOI](https://zenodo.org/badge/331358275.svg)](https://zenodo.org/badge/latestdoi/331358275)
+
 ## Introduction
 
 This repository contains materials for the SENSE practical on agent-based

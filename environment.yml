@@ -2,16 +2,17 @@ name: sense-abm
 channels:
   - defaults
 dependencies:
+  - seaborn
+  - rise
+  - flake8
+  - spyder
+  - jupyterlab
+  - pytest
+  - pandas
+  - matplotlib
   - ffmpeg
   - numpy
-  - matplotlib
-  - seaborn
-  - jupyterlab
-  - spyder
-  - flake8
   - tqdm
-  - pandas
-  - pytest
   - pytest-cov
-  - rise
+  - scipy
 prefix: /home/keiran/miniconda3/envs/sense-abm

@@ -14,4 +14,5 @@ dependencies:
   - pytest
   - pytest-cov
   - rise
+  - scipy
 prefix: /home/keiran/miniconda3/envs/sense-abm

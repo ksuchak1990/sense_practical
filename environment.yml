@@ -7,12 +7,11 @@ dependencies:
   - matplotlib
   - seaborn
   - jupyterlab
-  - spyder
+  - notebook
   - flake8
   - tqdm
   - pandas
   - pytest
   - pytest-cov
-  - rise
   - scipy
 prefix: /home/keiran/miniconda3/envs/sense-abm
